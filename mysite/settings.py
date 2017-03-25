@@ -25,7 +25,7 @@ SECRET_KEY = 'n_+(m$(9azs0ly4k=tt3&wql-p$myt4b4b&_c$_b*^y-r34-p='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['iram.pythonanywhere.com' ,]
 
 
 # Application definition
